@@ -1,1 +1,1 @@
-My custom x64dbg color scheme.
+My custom x64dbg color scheme, a modified version from some black scheme on https://github.com/x64dbg/x64dbg/wiki/Color-Schemes.
